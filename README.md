@@ -2,3 +2,4 @@
 - [Trading Engine](https://github.com/Anurag-Kochar-1/Opinion-Trading-Platform-Engine)
 - [Websocket Server](https://github.com/Anurag-Kochar-1/Opinion-Trading-Platform-WebSockt-Server)
 - [Frontend](https://github.com/Anurag-Kochar-1/Opinion-Trading-Platform-Frontend)
+- [Staging Ops](https://github.com/Anurag-Kochar-1/Opinion-Trading-Platform-Staging-Ops)
